@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:4e54c8,100:fc00ff&text=Akila%20%20Dissanayake&reversal=false&textBg=false&fontColor=F8F8F8&fontAlign=50&animation=fadeIn&stroke=3A007F&desc=Engineering%20Student%20|%20AI|ML|Networking&descAlignY=67&descAlign=67&strokeWidth=0.5" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2193b0,100:6dd5ed&text=Akila%20Dissanayake&fontColor=FFFFFF&animation=fadeIn&stroke=F8F8F8&strokeWidth=0.5&desc=Engineering%20Student%20|%20AI%20|%20ML%20|%20Networking&descAlignY=66&descAlign=62" 
     width="1200" 
     alt="Header"
   />
